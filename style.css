@@ -1,0 +1,46 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px turquoise;
+}
+
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px skyblue;
+    font-family: garamond;
+}
+
+.heading_div2{
+font-size: 18px;
+}
+
+.result_para {
+box-shadow: 5px 5px 5px white;
+font-size: 20px;
+}
+
+.copy_right_footer{
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    color: turquoise;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+
+
+
+canvas{
+    border: 5px dotted dashed solid double orange ;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px turquoise;
+    margin-top: 150px;
+}
